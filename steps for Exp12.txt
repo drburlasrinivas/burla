@@ -1,0 +1,20 @@
+1)Check Python version
+python --version (or) py --version
+2)create one folder then open that folder in cmd 
+3)create virtual environment
+py -m pip install --user virtualenv
+4)Activate Vit=rtual Environment
+py -m venv venv 
+5)to install Django
+python -m install Django (or)pip install Django
+6) check version of Django
+python -m django --version
+7)to create a project
+django-admin startproject first
+8)open project in cmd
+cd first
+9)run the project
+py manage.py runserver
+
+
+
